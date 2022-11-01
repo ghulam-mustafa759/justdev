@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.header ul {
+	width: auto;
+	float: right;
+	margin-top: 3rem;
+}
+.header li {
+	display: inline-block;
+	padding: 1rem 2rem;
+	font-size: 1.5rem;
+}
+.header a:visited {
+	color: black;
+}
+.first_half {
+	padding: 5rem;
+	padding-top: 3rem;
+	font-family: "Abril Fatface", cursive;
+	font-size: 4rem;
+	text-align: center;
+	background-color: rgb(229, 212, 229);
+}
+
+.first_container {
+	margin: 6rem;
+	padding: 1rem;
+	border-radius: 2rem;
+	background-color: rgb(237, 232, 217);
+	font-family: "Montserrat", sans-serif;
+	font-size: 2.5rem;
+}

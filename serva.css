@@ -1,0 +1,28 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-size: 1.5rem;
+	background-color: bisque;
+}
+
+.second_container {
+	font-size: 2rem;
+	text-align: left;
+	padding: 3rem;
+	margin: 2rem;
+	background-color: floralwhite;
+}
+h2 {
+	text-align: center;
+}
+a:link {
+	padding: 1rem;
+	margin: 0.5rem;
+	color: black;
+}
+a:visited {
+	color: darkslateblue;
+}
+a:hover {
+	color: crimson;
+}
